@@ -1,0 +1,38 @@
+.ad-Item {
+}
+.placeholder {
+  background: #ccc;
+  animation: placeholder 1s infinite ease-in-out;
+}
+@keyframes placeholder {
+  0% {
+    opacity: 0.5;
+    background: lightgreen;
+  }
+  100% {
+    opacity: 1;
+    background: limegreen;
+  }
+}
+.ad-Item .poster {
+}
+.ad-Item .poster .placeholder {
+}
+.ad-Item .title {
+}
+.ad-Item .title .placeholder {
+}
+.ad-Item .tagline {
+}
+.ad-Item .tagline .placeholder {
+}
+.ad-Item .ftr {
+}
+.ad-Item .ftr .location {
+}
+.ad-Item .ftr .location .placeholder {
+}
+.ad-Item .stamp {
+}
+.ad-Item .stamp .placeholder {
+}
